@@ -1,9 +1,24 @@
-# Inventario de Skills y MCP
+# Inventario de Skills, Plugins y MCP
 
 - Fecha: 2026-11-04
-- Alcance: catalogo de skills y herramientas MCP visibles en esta sesion.
+- Alcance: catalogo de skills, plugins y herramientas MCP visibles en esta sesion.
 - Los identificadores se registran tal como aparecen. No incluye credenciales ni parametros.
 
+## Plugins/paquetes disponibles (13)
+
+- `computer-use`
+- `documents`
+- `google-drive`
+- `gstack-workflows`
+- `pdf`
+- `ponytail`
+- `presentations`
+- `sites`
+- `spreadsheets`
+- `superpowers`
+- `template-creator`
+- `visualize`
+- `work-pets`
 ## Skills disponibles (146)
 
 - `imagegen`
